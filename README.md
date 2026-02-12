@@ -64,13 +64,13 @@ A fully functional, command-line To-Do List Application built with Python. This 
 ## 💡 Usage Examples
 
 ### Adding a Task
-Type add_task()
-Enter the task title: Buy groceries
-✓ Task 'Buy groceries' added successfully!
+- Type `add_task()`
+- Enter the task title: Buy groceries
+- Task 'Buy groceries' added successfully!
 
 
 ### Viewing Tasks
-
+- Type `view_tasks()`
 Your Tasks:
 1. [○] Buy groceries - Incomplete
 2. [✓] Complete project - Complete
@@ -78,7 +78,7 @@ Your Tasks:
 
 
 ### Marking a Task Complete
-
+- Type `mark_task_complete()`
 Enter the task number to mark as complete: 1
 ✓ Task 'Buy groceries' marked as complete!
 
@@ -115,6 +115,6 @@ This project demonstrates:
 - Version 1.0 - Initial release with core functionality
 
 ---
-**GitHub:** [Mini-Project-To-Do-List-Application](https://github.com/walma)
+**GitHub:** [Mini-Project-To-Do-List-Application](https://github.com/walmartjobluke-ops/Mini-Project-To-Do-List-Application/blob/main/To-Do-List-App.py)
 
 **Created:** February 12th, 2026
